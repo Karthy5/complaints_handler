@@ -1,8 +1,7 @@
 # Complaints Handler - Categorization of Requests using NLP
 
-**NAME :** Karthik Raj S.
-**REG NO:** RA2211003011401
-**Github Profile:** [https://github.com/Karthy5](https://github.com/Karthy5)
+**AUTHOR NAME :** Karthik Raj S. \
+**Github Profile:** [https://github.com/Karthy5](https://github.com/Karthy5) \
 **Project Link:** [https://github.com/Karthy5/complaints_handler](https://github.com/Karthy5/complaints_handler)
 
 ---
