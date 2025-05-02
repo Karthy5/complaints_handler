@@ -105,8 +105,6 @@ Booking / Cancellation / Refund       0.89      0.80      0.84        10
 Final Top-2 Accuracy: 95.00% (95/100)
 ```
 
-*(Link to Image: Alternatively, save the results table screenshot and link it: [View Results Table](path/to/results_table_screenshot.png))*
-
 **Analysis:**
 
 *   The Confusion Matrix shows strong diagonal dominance, with significantly improved accuracy for "Accessibility" and "Safety" after data enhancement.
