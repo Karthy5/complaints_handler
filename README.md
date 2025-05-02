@@ -107,11 +107,6 @@ Final Top-2 Accuracy: 95.00% (95/100)
 
 *(Link to Image: Alternatively, save the results table screenshot and link it: [View Results Table](path/to/results_table_screenshot.png))*
 
-### Figure 2: Confusion Matrix
-
-*(Replace `path/to/your/final_confusion_matrix.png` with the actual path/filename in your repo)*
-![Final Confusion Matrix](path/to/your/final_confusion_matrix.png)
-
 **Analysis:**
 
 *   The Confusion Matrix shows strong diagonal dominance, with significantly improved accuracy for "Accessibility" and "Safety" after data enhancement.
