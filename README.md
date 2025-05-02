@@ -122,6 +122,3 @@ The iterative refinement led to a robust and accurate classifier.
 *   Implement model saving/loading for persistence.
 *   Develop a simple web interface (e.g., using Flask/Streamlit).
 
-## License
-
-*(Add license information here, e.g., MIT License)*
