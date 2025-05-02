@@ -115,14 +115,6 @@ The iterative refinement led to a robust and accurate classifier.
 
 ---
 
-## Installation & Usage
-
-*(Keep the Installation and Usage sections from the previous README draft here, as they provide practical instructions)*
-
-1.  **Clone:** `git clone https://github.com/Karthy5/complaints_handler.git`
-2.  **Install:** `pip install spacy classy-classification sentence-transformers scikit-learn matplotlib numpy` (preferably in a virtual environment)
-3.  **Run:** `python <your_script_name.py>` to train and evaluate.
-
 ## Future Improvements
 
 *   Experiment with different Sentence Transformer models.
